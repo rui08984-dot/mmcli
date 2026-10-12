@@ -1,0 +1,23 @@
+{
+  "bridge_json": null,
+  "modmind_exe": null,
+  "project_root": null,
+  "allowed_roots": [],
+  "expect_namespace": null,
+  "require_files": [],
+  "timeout": 300,
+  "lock_timeout": 180,
+  "state_dir": null,
+  "output_dir": null,
+  "manifest_template": null,
+  "bind_wait_seconds": 45,
+  "versions_root": null,
+  "libraries_root": null,
+  "assets_root": null,
+  "pcl_dir": null,
+  "default_instance": null,
+  "build_libs": null,
+  "memory_mb": 4096,
+  "player_name": "Player",
+  "_comment": "路径按本机填写; 换机/换项目时改这里, 或让 mmcli 自动扫描(bridge.json 找不到时会去 project_root 与 allowed_roots 里找)"
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+shots/
+.mmcli-state/
+mmcli.config.json
+!mmcli.config.example.json
